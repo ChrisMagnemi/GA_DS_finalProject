@@ -1,3 +1,6 @@
+Chris Magnemi
+Thank you to https://www.kaggle.com/aaron7sun/stocknews for this dataset!
+
 # DAT Course Final Project Rubric
 
 ## Due Dates and Links
