@@ -1,5 +1,8 @@
-Chris Magnemi
-Thank you to https://www.kaggle.com/aaron7sun/stocknews for this dataset!
+Chris Magnemi <br>
+Thank you to https://www.kaggle.com/aaron7sun/stocknews for this dataset! <Br>
+There are a bunch of files in this repository, many of them are my experiments and tests to get comofortable with the data. <br>
+The notebook I presented is titled: RedditDow_FinalPresentation <Br>
+
 
 # DAT Course Final Project Rubric
 
