@@ -1,7 +1,7 @@
 Chris Magnemi <br>
 Thank you to https://www.kaggle.com/aaron7sun/stocknews for this dataset! <Br>
 There are a bunch of files in this repository, many of them are my experiments and tests to get comofortable with the data. <br>
-The notebook I presented is titled: RedditDow_FinalPresentation <Br>
+ <b> The notebook I actally presented is titled: RedditDow_FinalPresentation </b><Br>
 I used Natural Language Processing techniques on the top 25 Reddit World News headlines to predict whether the Dow would increase or decrease on a given day from open to close, and whether the Dow's next day closing price would increase or decrease. <br>
  In short, this was a classification problem with <br>
   Predictors: top 25 news headlines (manipulated with count and tf-idf vectorizers)
