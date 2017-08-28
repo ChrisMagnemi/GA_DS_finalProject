@@ -6,7 +6,10 @@ I used Natural Language Processing techniques on the top 25 Reddit World News he
  In short, this was a classification problem with <br>
   Predictors: top 25 news headlines (manipulated with count and tf-idf vectorizers) <br>
   Outcome Variables: 'Label' - whether closing price was greater or less than open price <br>
-                      'nextday_increase' - whether tomorrow's closing price will be greater or less than today's closing price 
+                      'nextday_increase' - whether tomorrow's closing price will be greater or less than today's closing price  <br>
+ <br>
+ <br>
+ Below is the project prompt from General Assembly (note we did not exactly adhere to the instructions as a class)
 
 
 # DAT Course Final Project Rubric
